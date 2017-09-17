@@ -68,7 +68,7 @@ int main()
 	cout << ds_actual_text << endl;
 
 	// T.T.
-	std::string tt_actual_text = decrypt("UHU KHLL PTL T WKBEE BGLMKNVMHK BG MAX NGBMXW LMTMXL TBK YHKVX", 0);
+	std::string tt_actual_text = decrypt("UHU KHLL PTL T WKBEE BGLMKNVMHK BG MAX NGBMXW LMTMXL TBK YHKVX", 7);
 	std::string tt_expected_text = "";
 	cout << tt_actual_text << endl;
 
